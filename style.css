@@ -1,0 +1,23 @@
+:root {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgray;
+}
+
+img {
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 0.2cm;
+    margin: 1rem;
+}
+
+#container > div {
+    font-size: 2rem;
+    margin: 1rem;
+}
